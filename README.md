@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">A C++ developer and unreal gameplay programmer</h3>
+<h3 align="center">A C++ Developer and Unreal Gameplay Programmer</h3>
 
 - 🔭 I’m currently working on [GameBoy Emulator](https://github.com/Ghostleadie/GBEmulator)
 
