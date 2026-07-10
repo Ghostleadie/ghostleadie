@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on [GameBoy Emulator](https://github.com/Ghostleadie/GBEmulator)
 
-- 👨‍💻 All of my projects are available at [https://ghostleadie.github.io/](https://ghostleadie.github.io/)
+- 👨‍💻 All of my projects are available at [https://www.jbrewer.co.uk/](https://www.jbrewer.co.uk/)
 
 - 📫 How to reach me **Jack_brewer96@hotmail.com**
